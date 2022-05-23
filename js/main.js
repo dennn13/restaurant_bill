@@ -1,5 +1,5 @@
 /*!
-* Copyright 2013-2022 Thanasis
+* Copyright 2013-2022 Den
 * Licensed under MIT
 */
 

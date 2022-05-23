@@ -1,4 +1,7 @@
-// restip
+/*!
+* Copyright 2013-2022 Den
+* Licensed under MIT
+*/
 
 //function tipValue(amt,np,pt)
 //{
